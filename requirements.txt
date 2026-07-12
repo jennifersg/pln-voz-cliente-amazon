@@ -1,0 +1,10 @@
+datasets
+gradio
+gensim
+Unidecode
+numpy
+pandas
+matplotlib
+joblib
+scikit-learn
+tensorflow
